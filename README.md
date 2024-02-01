@@ -1,2 +1,3 @@
 # CurrencyFetcher
-Go Ahead Task
+
+"docker compose up -d" для запуска сервиса.
